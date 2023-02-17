@@ -1,7 +1,7 @@
 # 📲 Projeto Monaca 
 💻 Este seguinte projeto é o meu primeiro contato com o site de desenvolvimento mobile "Monaca".
 
-Na aplicação da utilização do site implementei o meu projeto da página web da tela de loh
+Na aplicação da utilização do site implementei o meu projeto da página web da tela de login. 
 #
 
 ### Linguagens de programação que utilizei no projeto:
